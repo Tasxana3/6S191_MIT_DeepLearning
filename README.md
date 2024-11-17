@@ -1,6 +1,8 @@
 Summary
 MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more! Students will gain foundational knowledge of deep learning algorithms and get practical experience in building neural networks in TensorFlow. 
 
+แปลไทย : คอร์สเบื้องต้นของ MIT เกี่ยวกับวิธีการเรียนรู้เชิงลึก (Deep Learning) ที่ประยุกต์ใช้กับการมองเห็นด้วยคอมพิวเตอร์ (Computer Vision), การประมวลผลภาษาธรรมชาติ (Natural Language Processing), ชีววิทยา และอื่น ๆ! นักเรียนจะได้รับความรู้พื้นฐานเกี่ยวกับอัลกอริทึมการเรียนรู้เชิงลึก พร้อมทั้งได้ฝึกปฏิบัติจริงในการสร้างโครงข่ายประสาทเทียม (Neural Networks) โดยใช้ TensorFlow. 
+
 
 Prerequisites 
 We expect basic knowledge of calculus (e.g., taking derivatives), linear algebra (e.g., matrix multiplication), and probability (e.g., Bayes theorem) -- we'll try to explain everything else along the way! Experience in Python is helpful but not necessary. This class is taught during MIT's IAP term by current MIT PhD researchers. Listeners are welcome!
